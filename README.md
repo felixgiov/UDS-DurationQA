@@ -9,7 +9,6 @@ transferred to the target task. Our proposed model achieves a 13% Exact Match sc
 ### Overview of the dataset
 We recast our data from the [UDS-T dataset](http://decomp.io/projects/time/).
 We provide the train/dev/test split as specified in the paper under `data/`.
-
 In each file, there are lines of tab-separated data, each line representing an instance of a question-answer pair.
 Each line contains the following information:
 
@@ -21,4 +20,4 @@ Each line contains the following information:
  * **label**: whether the answer is a plausible answer. "yes" indicates the answer is plausible, "no" otherwise.
 
 ### Citation
-If you use this dataset, please cite our paper ["Felix Giovanni Virgo, Fei Cheng, Sadao Kurohashi. Improving Event Duration Question Answering by Leveraging Existing Temporal Information Extraction Data. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC2), (2022)"]()
+If you use this dataset, please cite our paper ["Felix Giovanni Virgo, Fei Cheng, Sadao Kurohashi. Improving Event Duration Question Answering by Leveraging Existing Temporal Information Extraction Data. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC), (2022)"]()

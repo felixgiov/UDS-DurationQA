@@ -20,7 +20,7 @@ Each line contains the following information:
  * **label**: whether the answer is a plausible answer. "yes" indicates the answer is plausible, "no" otherwise.
 
 ### Citation
-If you use this dataset, please cite our paper ["Felix Giovanni Virgo, Fei Cheng, Sadao Kurohashi. Improving Event Duration Question Answering by Leveraging Existing Temporal Information Extraction Data. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC), (2022)"](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.473.pdf)
+If you use this dataset, please cite our paper ["Felix Giovanni Virgo, Fei Cheng, Sadao Kurohashi. Improving Event Duration Question Answering by Leveraging Existing Temporal Information Extraction Data. Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC), (2022)"](https://aclanthology.org/2022.lrec-1.473/)
 
 Bibtex for citations:
 
